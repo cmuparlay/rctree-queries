@@ -1,0 +1,5 @@
+num_threads,graph_size,ln,mean,dist,static_gen_time,static_tern_time,dynamic_gen_time,dynamic_tern_time,randomize
+48,1000,0.1,20,e,0.00288292,0.000992084,-nan,-nan,false
+48,10000,0.1,20,e,0.0127073,0.00586723,-nan,-nan,false
+48,100000,0.1,20,e,0.0538425,0.0175975,-nan,-nan,false
+48,1000000,0.1,20,e,0.486756,0.160178,-nan,-nan,false
